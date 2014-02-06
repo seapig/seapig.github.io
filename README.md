@@ -1,4 +1,4 @@
-seattlepython.github.io
-=======================
+seapig.github.io
+================
 
 SeaPIG website
